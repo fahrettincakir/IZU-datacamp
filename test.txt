@@ -1,0 +1,5 @@
+birinci satır
+İkinci satır
+Üçüncü satır
+Bir varmış
+Bir yokmuş
